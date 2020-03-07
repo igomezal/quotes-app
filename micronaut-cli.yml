@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: quotes.app
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
